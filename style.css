@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    text-align: center;
+    line-height: 2;
+}
+.top{
+    background-color: #C6EBC5;
+    margin-top: 0;
+    font-family: sans-serif;
+    font-style: normal;
+    color: green;
+    line-height: 2;
+    margin: 0;
+    }
+h1{
+    font-family: 'Sacramento', cursive;
+}
+
+h3{
+    color: #F9ED69;
+}
+
+.skill{
+    width: 400px;
+    height: 400px;
+}
+.skills{
+background-color: #fff;
+
+}
+
+div{
+    margin: 0;
+}
+
+.middle{
+    background-color: #00ADB5;
+}
+
+.bottom{
+background-color: #EEEEEE;
+}
+
+.Naveen{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+a:hover{
+background-color: green;
+}
+
+.topnav a{
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topnav{
+    background-color: #95E1D3;
+    margin: 0;
+}
